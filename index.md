@@ -1,6 +1,6 @@
 ## NỘI DUNG
 1. [Pi là gì?](https://joingreen.github.io/pi-la-gi)
-2. [Hướng dẫn khai thác Pi miễn phí](https://joingreen.github.io/huong-dan-khai-thac-pi-mien-phi)
+2. [Hướng dẫn khai thác Pi miễn phí](https://joingreen.github.io/huong-dan-khai-thac-pi)
 #### Tại sao tiền điện tử lại quan trọng.
 
 Hiện tại, các giao dịch tài chính hàng ngày của chúng tôi dựa vào một bên thứ ba đáng tin cậy để duy trì hồ sơ giao dịch. Ví dụ, khi bạn thực hiện một giao dịch ngân hàng, hệ thống ngân hàng sẽ lưu giữ hồ sơ và đảm bảo rằng giao dịch đó là an toàn và đáng tin cậy. Tương tự như vậy, khi Cindy chuyển 5 đô la cho Steve bằng PayPal, PayPal duy trì hồ sơ trung tâm về 5 đô la được ghi nợ từ tài khoản của Cindy và 5 đô la được ghi có vào Steve’s. Các trung gian như ngân hàng, PayPal và các thành viên khác của hệ thống kinh tế hiện tại đóng một vai trò quan trọng trong việc điều chỉnh các giao dịch tài chính của thế giới.
