@@ -1,6 +1,11 @@
-## NỘI DUNG
-1. [Pi là gì?](https://joingreen.github.io/pi-la-gi)
-2. loading./..
+## Pi là gì?
+
+Khi thế giới ngày càng trở nên kỹ thuật số, tiền điện tử là một bước tiến tự nhiên tiếp theo trong sự phát triển của tiền tệ. Pi là loại tiền kỹ thuật số đầu tiên dành cho người dân hàng ngày, đại diện cho một bước tiến lớn trong việc chấp nhận tiền điện tử trên toàn thế giới.
+
+Sứ mệnh của chúng tôi: Xây dựng nền tảng hợp đồng thông minh và tiền điện tử được bảo mật và vận hành bởi những người hàng ngày.
+
+Tầm nhìn của chúng tôi: Xây dựng thị trường ngang hàng toàn diện nhất trên thế giới, được thúc đẩy bởi Pi, tiền điện tử được sử dụng rộng rãi nhất trên thế giới
+
 #### Tại sao tiền điện tử lại quan trọng.
 
 Hiện tại, các giao dịch tài chính hàng ngày của chúng tôi dựa vào một bên thứ ba đáng tin cậy để duy trì hồ sơ giao dịch. Ví dụ, khi bạn thực hiện một giao dịch ngân hàng, hệ thống ngân hàng sẽ lưu giữ hồ sơ và đảm bảo rằng giao dịch đó là an toàn và đáng tin cậy. Tương tự như vậy, khi Cindy chuyển 5 đô la cho Steve bằng PayPal, PayPal duy trì hồ sơ trung tâm về 5 đô la được ghi nợ từ tài khoản của Cindy và 5 đô la được ghi có vào Steve’s. Các trung gian như ngân hàng, PayPal và các thành viên khác của hệ thống kinh tế hiện tại đóng một vai trò quan trọng trong việc điều chỉnh các giao dịch tài chính của thế giới.
