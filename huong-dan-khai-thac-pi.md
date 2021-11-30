@@ -7,14 +7,14 @@
 4. Cách duy trì khai thác miễn phí và tăng tốc độ khai thác.
 
 ## Sơ lượt.
-Xin chào quý bạn, hôm nay tôi chia sẽ cách thức đăng ký và khai thác tiền điện tử Pi một cách chi tiết nhất, để bạn có thể đăng ký và khai thác Pi nhanh chóng. Nếu chưa biết Pi là gì hãy đọc bài viết 
+Xin chào quý bạn, hôm nay tôi chia sẽ cách đăng ký và khai thác tiền điện tử Pi chi tiết nhất, để quý bạn có thể đăng ký và khai thác Pi ngay lập tức. Nếu chưa biết Pi là gì hãy đọc bài viết 
 [Pi là gì?](https://joingreen.github.io/pi-la-gi)
 
-Bây giờ mời quý bạn đọc lần lượt và làm theo hướng dẫn dưới đây, nếu có điều thắc mắc hãy liên lạc và đặt câu hỏi cho tôi theo trang facebook dưới đây
+Bây giờ mời quý bạn đọc lần lượt làm theo hướng dẫn dưới đây, nếu có điều thắc mắc hãy liên lạc và đặt câu hỏi cho tôi theo trang facebook dưới đây
 [Liên lạc qua Facebook](https://facebook.com/khai.maihong.3?ref=bookmarks)
 
 ## Tải app.
-1. Bạn vào CHplay trên Android hoặc Apple Store đối với Iphone tìm kiếm app với cụm từ "pi network" và tải về. (bạn chú ý khung màu đỏ mình đánh dấu)
+1. Bạn vào CHplay trên Android hoặc Apple Store đối với Iphone tìm kiếm app với cụm từ "pi network" và tải về. (bạn chú ý khung màu đỏ)
 
 ![tai app pi network](https://joingreen.github.io/public/taive.jpg)
 
@@ -29,11 +29,12 @@ Bây giờ mời quý bạn đọc lần lượt và làm theo hướng dẫn d�
 ![tai app pi network](https://joingreen.github.io/public/hai.jpg)
 
 
-4. Điền tên Lót + Tên sau đó điền Họ của bạn, phải điền đúng tên thật như giấy tờ tuỳ thân của bạn. Bước tiếp theo bạn nhập tennguoidung (tên này do bạn đặt, hay chọn 1 tên dễ nhớ.).
+4. Điền tên Lót + Tên sau đó điền Họ của bạn, phải điền đúng tên thật như giấy tờ tuỳ thân của bạn. Bước tiếp theo bạn nhập tennguoidung (tên này do bạn đặt, hãy chọn 1 tên dễ nhớ).
+Sau đó bấm nút GỬI.
 ![tai app pi network](https://joingreen.github.io/public/ba.jpg)
 
 
-5. Tiếp theo bạn điền tên người mã mời là "khaihmtv" mã này cần nhập chính xác để tôi và bạn cả hai đều được hoa hồng và 1 Pi từ chương trình.
+5. Tiếp theo bạn điền mã mời là "khaihmtv" mã này cần nhập chính xác để tôi và bạn cả hai đều được hoa hồng và 1 Pi từ chương trình.
 ![tai app pi network](https://joingreen.github.io/public/bon.jpg)
 
 
@@ -62,8 +63,15 @@ Sau đó ở mục Xác minh tài khoản bạn chọn nút XÁC MINH như hình
 
 ## Cách duy trì khai thác miễn phí và tăng tốc độ khai thác.
 
-Đây là giai đoạn khời đầu của pi nên chương trình sẽ cho bạn khai thác Pi miễn phí hàng ngày, vi vậy sau 24h bạn hãy quay lại và bấm vào biểu tượng sấm sét để tiếp tục khai thác miễn phí. Nhưng
+Đây là giai đoạn khởi đầu của pi nên chương trình sẽ cho bạn khai thác Pi miễn phí hàng ngày, vi vậy sau 24h bạn hãy quay lại và bấm vào biểu tượng sấm sét để tiếp tục khai thác miễn phí.
+
 
 Để tăng tốc độ khai thác hãy mời thêm bạn vào. Bài viết tới đây đã dài khi khác mình sẽ nói sâu hơn về việc mời bạn cũng tham  gia để tăng tốc độ khai thác.
 
 ### CHÚC QUÝ BẠN MỘT NGÀY TỐT LÀNH
+
+
+
+
+
+
