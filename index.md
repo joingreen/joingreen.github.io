@@ -1,39 +1,12 @@
-import Menu from "./menu.md"
-
-## NỘI DUNG
+# NỘI DUNG CHÍNH YẾU
 1. [Pi là gì?](https://joingreen.github.io/pi-la-gi)
 2. [Hướng dẫn khai thác Pi miễn phí](https://joingreen.github.io/huong-dan-khai-thac-pi)
-#### Tại sao tiền điện tử lại quan trọng.
-<Menu/>
-Hiện tại, các giao dịch tài chính hàng ngày của chúng tôi dựa vào một bên thứ ba đáng tin cậy để duy trì hồ sơ giao dịch. Ví dụ, khi bạn thực hiện một giao dịch ngân hàng, hệ thống ngân hàng sẽ lưu giữ hồ sơ và đảm bảo rằng giao dịch đó là an toàn và đáng tin cậy. Tương tự như vậy, khi Cindy chuyển 5 đô la cho Steve bằng PayPal, PayPal duy trì hồ sơ trung tâm về 5 đô la được ghi nợ từ tài khoản của Cindy và 5 đô la được ghi có vào Steve’s. Các trung gian như ngân hàng, PayPal và các thành viên khác của hệ thống kinh tế hiện tại đóng một vai trò quan trọng trong việc điều chỉnh các giao dịch tài chính của thế giới.
 
 
-Tuy nhiên, vai trò của những người trung gian đáng tin cậy này cũng có những hạn chế:
-1.Bắt giữ giá trị không công bằng. Những người trung gian này tích lũy hàng tỷ đô la trong việc tạo ra của cải (vốn hóa thị trường của PayPal là ~ 130 tỷ đô la), nhưng hầu như không chuyển giao gì cho khách hàng của họ - những người bình thường, những người mà tiền của họ đóng góp một tỷ trọng đáng kể trong nền kinh tế toàn cầu. Ngày càng có nhiều người tụt hậu.
-
-2.Các khoản phí. Các ngân hàng và công ty thu phí lớn để tạo điều kiện thuận lợi cho các giao dịch. Các khoản phí này thường tác động không tương xứng đến nhóm dân cư có thu nhập thấp hơn, những người có ít lựa chọn thay thế nhất.
-
-3.Kiểm duyệt. Nếu một bên trung gian đáng tin cậy cụ thể quyết định rằng bạn không thể chuyển tiền của mình, nó có thể đặt ra những hạn chế đối với việc chuyển tiền của bạn.
-
-4.Được phép. Người trung gian đáng tin cậy đóng vai trò như một người gác cổng có thể tùy ý ngăn cản bất kỳ ai tham gia vào mạng.
-
-5.Bút danh. Vào thời điểm mà vấn đề về quyền riêng tư ngày càng trở nên cấp thiết, những người gác cổng quyền lực này có thể vô tình tiết lộ - hoặc buộc bạn phải tiết lộ - nhiều thông tin tài chính về bản thân hơn bạn có thể muốn.
 
 
-“Hệ thống tiền điện tử ngang hàng” của Bitcoin, được ra mắt vào năm 2009 bởi một (hoặc nhóm) lập trình viên ẩn danh Satoshi Nakamoto, là một bước ngoặt cho sự tự do của tiền tệ. Lần đầu tiên trong lịch sử, mọi người có thể trao đổi giá trị một cách an toàn mà không yêu cầu bên thứ ba hoặc trung gian đáng tin cậy. Thanh toán bằng Bitcoin có nghĩa là những người như Steve và Cindy có thể thanh toán trực tiếp cho nhau, bỏ qua phí tổ chức, các vật cản và xâm nhập. Bitcoin thực sự là một loại tiền tệ không có ranh giới, cung cấp năng lượng và kết nối một nền kinh tế toàn cầu mới.
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joingreen/joingreen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 ĐÀO PI, MẤT GÌ MÀ KHÔNG THỬ???
 Năm 2008,Bitcoin cho đào free 50 đồng/ngày, nhiều người bảo LỪA ĐẢO.Rồi đến lượt ETH cho đào free 30 đồng/ngày, nhiều người cũng bảo LỪA ĐẢO
