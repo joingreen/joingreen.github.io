@@ -17,6 +17,9 @@ Mục tiêu của Pi Network là tạo ra một blockchain với Giao thức đ�
 
 Một ưu điểm nữa của Pi là bạn không cần đăng nhập mỗi lần vào. Thông tin đã được lưu lại từ lần đăng nhập đầu tiên. Ngoài ra, bạn cũng có thể cài mật khẩu để giữ an toàn cho số Pi của mình.
 
+
+
+
 ## Tải app.
 1. Bạn vào CHplay trên Android hoặc Apple Store đối với Iphone tìm kiếm app với cụm từ "pi network" và ứng dụng Pi tải về máy.
 
