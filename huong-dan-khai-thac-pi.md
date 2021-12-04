@@ -1,24 +1,29 @@
 # Hướng dẫn đăng ký và khai thác tiền điện tử Pi trên điện thoại.
 
 **Nội dung**
-1. Sơ lượt.
+1. Giới thiệu.
 2. Tải app và đăng ký.
-3. Xác minh số điện thoại.
-4. Cách duy trì khai thác miễn phí và tăng tốc độ khai thác.
 
-## Sơ lượt.
-Xin chào quý bạn, hôm nay tôi chia sẽ cách đăng ký và khai thác tiền điện tử Pi chi tiết nhất, để quý bạn có thể đăng ký và khai thác Pi ngay lập tức. Nếu chưa biết Pi là gì hãy đọc bài viết 
-[Pi là gì?](https://joingreen.github.io/pi-la-gi)
 
-Bây giờ mời quý bạn đọc lần lượt làm theo hướng dẫn dưới đây, nếu có điều thắc mắc hãy liên lạc và đặt câu hỏi cho tôi theo trang facebook dưới đây
-[Liên lạc qua Facebook](https://facebook.com/khai.maihong.3?ref=bookmarks)
+
+
+
+## Giới thiệu.
+
+#### Pi Network là gì?
+
+Pi Network là một loại tiền ảo chỉ có thể đào hoặc khai thác trên điện thoại, nhưng không tiêu tốn tài nguyên thiết bị như những ứng dụng đào coin miễn phí khác. Trước Pi Network có thể kể đến ứng dụng đào coin như Electroneum (ETN), nhưng ứng dụng này tiêu thụ tài nguyên thiết bị của bạn để giải mã thuật toán (Electroneum sử dụng thuật toán cryptonight). Với Pi Network, khi bạn đào coin sẽ cảm nhận thiết bị không hề nóng lên. Ngoài ra bạn cũng có thể tắt ứng dụng hay tắt mạng mà vẫn có thể đào coin mỗi 24 giờ.
+
+Mục tiêu của Pi Network là tạo ra một blockchain với Giao thức đồng thuận Stellar (Stellar Consensus Protocol – SCP) để tối ưu hoá hiệu quả về tài nguyên và thân thiện với người dùng nhất thông qua việc sử dụng hệ thống vòng tròn bảo mật của Drake.
+
+#### Cách thức hoạt động của Pi Network
+
+Để đào Pi, bạn phải vào ứng dụng 24 giờ một lần. Và nhấn nút tia sét để bắt đầu khai thác. Bạn không cần phải giữ ứng dụng luôn mở trong thời gian này. Chỉ cần nhấn nút, tắt ứng dụng rồi bạn có thể làm việc khác. Quá trình khai thác sẽ diễn ra thậm chí khi điện thoại bạn không kết nối internet.
+
+Một ưu điểm nữa của Pi là bạn không cần đăng nhập mỗi lần vào. Thông tin đã được lưu lại từ lần đăng nhập đầu tiên. Ngoài ra, bạn cũng có thể cài mật khẩu để giữ an toàn cho số Pi của mình.
 
 ## Tải app.
-1. Bạn vào CHplay trên Android hoặc Apple Store đối với Iphone tìm kiếm app với cụm từ "pi network" và tải về. (bạn chú ý khung màu đỏ)
-
-![tai app pi network](https://joingreen.github.io/public/taive.jpg)
-
-
+1. Bạn vào CHplay trên Android hoặc Apple Store đối với Iphone tìm kiếm app với cụm từ "pi network" và ứng dụng Pi tải về máy.
 
 2. Mở ứng dụng Pi và bấm chọn "Continue with phone number" (trong trường hợp này mình hướng dẫn cho bạn đăng ký bằng số điện thoại để dễ dàng cho bước xác minh).
 
@@ -41,37 +46,10 @@ Sau đó bấm nút GỬI.
 6. Xin chú mừng bạn đã được 1 pi đầu tiên và bạn đang khai thác với 0,12 pi/giờ
 ![tai app pi network](https://joingreen.github.io/public/nam.jpg)
 
-## Xác minh số điện thoại
-Sau đây là các bước xác minh để chứng thực bạn là người thật, quá trình này là cần thiết để bảo toàn số pi bạn có sau này.
-
-1. Đầu tiên hãy bấm vào menu phía trên cùng -> chọn mục "hồ sơ" nằm ở hàng dưới cùng
-Sau đó ở mục Xác minh tài khoản bạn chọn nút XÁC MINH như hình dưới đây.
-![tai app pi network](https://joingreen.github.io/public/sau.jpg)
 
 
-2. Bấm vào nút BẮT ĐẦU
-![tai app pi network](https://joingreen.github.io/public/bay.jpg)
-
-3. Bấm vào MỞ TIN NHẮN SMS
-![tai app pi network](https://joingreen.github.io/public/tam.jpg)
-
-4. Bấm vào nút gửi
-![tai app pi network](https://joingreen.github.io/public/chin.jpg)
-
-5. Chúc mừng bạn đã xác minh thành công.
-![tai app pi network](https://joingreen.github.io/public/muoi.jpg)
-
-## Cách duy trì khai thác miễn phí và tăng tốc độ khai thác.
 
 Đây là giai đoạn khởi đầu của pi nên chương trình sẽ cho bạn khai thác Pi miễn phí hàng ngày, vi vậy sau 24h bạn hãy quay lại và bấm vào biểu tượng sấm sét để tiếp tục khai thác miễn phí.
+Để tăng tốc độ khai thác hãy mời thêm bạn đăng ký bằng mã giới thiệu của bạn.
 
-
-Để tăng tốc độ khai thác hãy mời thêm bạn vào. Bài viết tới đây đã dài khi khác mình sẽ nói sâu hơn về việc mời bạn cũng tham  gia để tăng tốc độ khai thác.
-
-### CHÚC QUÝ BẠN MỘT NGÀY TỐT LÀNH
-
-
-
-
-
-
+Tham gia group Zalo này để trao đổi thông tin với các thành viên trong cộng đồng Pi [Vào nhóm Zalo](https://zalo.me/g/zgzqwu830)
