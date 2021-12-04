@@ -1,10 +1,5 @@
 # Hướng dẫn đăng ký và khai thác tiền điện tử Pi trên điện thoại.
 
-**Nội dung**
-1. Giới thiệu.
-2. Tải app và đăng ký.
-
-
 
 
 
