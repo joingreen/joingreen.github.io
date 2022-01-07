@@ -50,4 +50,4 @@ Sau đó bấm nút GỬI.
 Đây là giai đoạn khởi đầu của pi nên chương trình sẽ cho bạn khai thác Pi miễn phí hàng ngày, vi vậy sau 24h bạn hãy quay lại và bấm vào biểu tượng sấm sét để tiếp tục khai thác miễn phí.
 Để tăng tốc độ khai thác hãy mời thêm bạn đăng ký bằng mã giới thiệu của bạn.
 
-Tham gia group Zalo này để trao đổi thông tin với các thành viên trong cộng đồng Pi [Vào nhóm Zalo](https://zalo.me/g/zgzqwu830)
+Tham gia group Zalo này để trao đổi thông tin với các thành viên trong cộng đồng Pi [Vào nhóm Zalo](https://zalo.me/g/dodeyl266)
